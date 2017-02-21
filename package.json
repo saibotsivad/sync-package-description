@@ -1,0 +1,21 @@
+{
+  "name": "sync-package-description",
+  "version": "1.0.0",
+  "description": "Synchronize an npm package.json description to Github.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/sync-package-description.git"
+  },
+  "author": "saibotsivad",
+  "license": "VOL",
+  "bugs": {
+    "url": "https://github.com/saibotsivad/sync-package-description/issues"
+  },
+  "homepage": "https://github.com/saibotsivad/sync-package-description#readme",
+  "dependencies": {
+    "github": "^9.0.0",
+    "parse-github-url": "^1.0.0",
+    "read-pkg": "^2.0.0"
+  }
+}

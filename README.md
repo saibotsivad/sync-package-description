@@ -1,5 +1,7 @@
 # sync-package-description
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/sync-package-description.svg)](https://greenkeeper.io/)
+
 Synchronize an npm package.json description to Github.
 
 For help setting this up as a git hook, see the
